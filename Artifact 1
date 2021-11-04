@@ -1,0 +1,16 @@
+Create and Use Version Control Repository
+The version control aspect of Configuration Management is a critical element of virtually every software development project and Git is an ubiquitous version control system in use today.  We are going to use Github which is a free service that provides Git repositories to teams.  The repositories we make will be publicly accessible but not advertised.  It's the public aspect that keeps them free for use. 
+
+A set of resource links has been added to the content area of this session to provide some instruction on how to interact with Git and Github.  There is also plenty of additional information available on the web.
+
+These are the steps required to complete the assignment this week:
+
+Each team member will register with Github if you don't already have a login
+One team member create will a Github repository for your project
+All other team members will be invited to contribute to the project
+Create an artifact (i.e. document) that will be edited by each member of the team
+Send me a link for your Github repository as the submission for this group assignment
+Each team member must do the following to receive credit for the assignment:
+Create a separate branch from the master
+Make a change to the shared document in the separate branch
+Merge that change back into the master branch
